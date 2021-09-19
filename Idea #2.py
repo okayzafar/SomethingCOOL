@@ -1,0 +1,1 @@
+#simple text based interface which allows email users subscribed to a list to unsubscribe and choose what type of emails they would like to receive (marketing preferences)
